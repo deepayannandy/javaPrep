@@ -1,3 +1,5 @@
+package javaConcepts;
+
 @FunctionalInterface
 interface SimpleCalculator{
     public int add(int a, int b);

@@ -1,3 +1,5 @@
+package javaConcepts;
+
 @FunctionalInterface
 interface Car{
     public void run(int Speed);
